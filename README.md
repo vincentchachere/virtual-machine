@@ -103,7 +103,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9ffa08bf-c277-4b06-afeb-4ed5bbe9ab8b"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/297a27e0-d781-4189-a304-59dd419e65f3"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e127285-8f1b-421f-a0a3-119d908c368a"><br>
 
 ***
 
@@ -117,16 +117,16 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - You will then need to make a username and password
 
-  - For username, we will use: `labuser`
+  - Username: `labuser`
 
-  - Create your own password
+  - Password: `Create Your Own` *(something you can easily remember)*
 
-- Click the box under licensing
+- Click: the `box under licensing`
 
 - Finally click: `Review + Create`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/297a27e0-d781-4189-a304-59dd419e65f3"><br>
 
 ***
 
@@ -134,12 +134,12 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - First, you will need to find the public IP address of your virtual machine
 
-  - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
+  - Select: the `virtual machine` we created and the `public IP address` will be on the right-hand side of the screen
 
-  - Copy the public IP address
+  - Copy: the `public IP address`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/ba046ebd-bd8d-4a41-b5d2-961d2f683720"><br>
 
 ***
 
@@ -163,20 +163,27 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Windows Users
 
-     - Open and use Remote Desktop
-     - Paste the public IP Address and select Connect
-     - Enter the username and password from step 4
-     - Select OK
+  - Open and use: `Remote Desktop`
+ 
+  - Paste: the `public IP Address`
+    
+  - Then select: `Connect`
+ 
+  - Enter: the `username and password from step 4`
+     
+  - Select: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/5152435e-5e57-4728-8e97-545e764be345"><br>
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/d81f8c96-75e7-4234-b55b-f79c3d14854b"><br>
 
 ***
 
 🎉Congratulations! You have created your first virtual machine within Azure!🎉
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/986ee130-a408-434a-901e-50a6987583c7"><br>
 
 ***
 
