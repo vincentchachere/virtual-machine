@@ -15,9 +15,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Step 1: Create an Azure Account
 
-Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
+- Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
-- Select Start Free
+- Select: `Start Free`
 
 - Follow the prompt to create the account 
 
