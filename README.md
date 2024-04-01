@@ -189,5 +189,5 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Tip
 
--  If you want to SAVE your FREE $200 CREDITS, be sure to DELETE ALL your RESOURCES and RESOURCE GROUPS AFTER you FINISH!    
+-  If you want to save your free $200 credits, be sure to delete all your resources and resource groups after you finish!    
   
