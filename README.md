@@ -23,7 +23,11 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
   - You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then
 
-- Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
+- Finish the prompt
+
+- Click: `Go to Azure Portal`
+
+- Now you are ready to start with Azure!
 
   - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
@@ -34,13 +38,15 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Step 2: Create a Resource Group
 
-- Go to the search bar at the top and search "resource group"
+- Go to the search bar at the top and search: `resource group`
 
-- Select Create Resource Group
+- Select: `Create Resource Group`
 
-- You will need to name the resource group and select the region 
+- Name the resource group and select the region 
 
-- Select Review + Create on the lower left
+- Select: `Review + Create`
+
+  - Towards the lower left
 
   - For this example, we will be using RG-Lab-1 for the name and (US) West 3 for the region
 
