@@ -88,34 +88,42 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Step 4: Create a Virtual Machine
      
-- Go to the search bar and search "virtual machine"
+- Go to the search bar and search: `virtual machine`
 
-- Select Create, then select Azure Virtual Machine
+- Select: `Create`
+
+- Select: `Azure Virtual Machine`
 
 - You will need to select the same resource group, the same region, and create a name for the virtual machine
-   
-  - For thise example, we will name the virtual machine "virtualmachine"
+
+  - For this example, we will name the virtual machine: `vm-1`
     
   - Use the same resource group and region as steps 2 and 3
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9ffa08bf-c277-4b06-afeb-4ed5bbe9ab8b"><br>
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/297a27e0-d781-4189-a304-59dd419e65f3"><br>
 
 ***
 
-- You will then need to select the image and disk size
+- You will then need to: `select the image and disk size`
 
-  - For image we will use Windows 10 Pro
+  - For the image we will use: `Windows 10 Pro`
    
-  - For size, select See All Sizes and select Standard D2as_v4
+  - For the size select: `See All Sizes`
+ 
+  - Then select: `Standard D2as_v4`
 
 - You will then need to make a username and password
 
-  - For username, we will use "labuser"
+  - For username, we will use: `labuser`
 
   - Create your own password
 
-- Click the box under licensing and finally click Review + Create 
+- Click the box under licensing
+
+- Finally click: `Review + Create`
 
 <p align="center">
 <img width="800" alt="isolated" src=""><br>
