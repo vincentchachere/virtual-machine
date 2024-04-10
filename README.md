@@ -32,34 +32,31 @@ Azure is a cloud computing platform and an online portal that allows you to acce
   - *You can also go to [portal.azure.com](https://www.portal.azure.com) to start*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://camo.githubusercontent.com/1f295ebe480222ffc5cc8c8bc66fd4ff49a963d9719f4e5eb9bbdc79c973febc/68747470733a2f2f692e696d6775722e636f6d2f726b34534432372e706e67"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e6b2c44-9e10-4bec-8285-65602c6cded8"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://camo.githubusercontent.com/7a69e290ae4e79ca235cfd35e8183a545101fc8fb3310009dff0676727086d3b/68747470733a2f2f692e696d6775722e636f6d2f663165524978342e706e67"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6c62e0c8-4d65-4d03-bc15-cafff0f51f6d"><br>
 
 ***
 
 ### Step 2: Create a Resource Group
 
-- Go to the search bar at the top and search: `resource group`
+- Go to the search bar at the top middle of your screen and Search: `resource group`
 
-- Select: `Create Resource Group`
+- Select: `Create`
 
-  - Name the resource group and select the region 
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/b607495a-8387-4772-bf0e-6797e3ab49ac"><br>
+
+- Resource Group Name: `RG-Lab1`
+
+- Region: `(US) West 3`
 
 - Select: `Review + Create`
 
-  - *Towards the lower left*
-
-- For this example, we will be using:
-
-  - Name: `RG-Lab1`
-
-  - Region: `(US) West 3`
-
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/31f5770a-72d6-494d-a2b5-cc6ffceec609"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/f1ee7335-67e5-4e26-8ef5-952ec7836bcf"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/c2a43bfc-d498-46c4-8c5b-3316b83a496e"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/7726c51a-d8fe-4bf2-9ea4-4ce76bf3e9d2"><br>
 
 ***
 
