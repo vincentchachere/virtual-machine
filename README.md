@@ -194,6 +194,14 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4e5eebbc-439f-4fc2-9a77-7623b29064ce"><br>
 
+- Uncheck: `All the Boxes`
+
+- Click: `Accept`
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/e59970e9-dd77-4812-984b-4540d90c87c7"><br>
+
+
 ***
 
 🎉Congratulations! You have created your first virtual machine within Azure!🎉
