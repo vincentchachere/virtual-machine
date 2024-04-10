@@ -183,14 +183,16 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/81206635-7651-48ae-a1a1-7298cd9d1684"><br>
 
- - Double-click: on the `virtual machine`
+- Double-Click: on the `Virtual Machine Account (the blue ringed rectangle)`
 
-  - Enter: `the username and password` *from step 4*
+- Click: `Connect`
 
-  - Select: `Continue`
+- Enter: `the username and password` *(from step 4)*
+
+- Select: `Continue`
 
 <p align="center">
-<img width="800" alt="isolated" src=""><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4e5eebbc-439f-4fc2-9a77-7623b29064ce"><br>
 
 ***
 
