@@ -76,26 +76,28 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4f3182fd-ce97-4c0c-97c3-c5ef5df8e330"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/f9dcab68-9530-4db3-94a4-387aaa21369c"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9049a3b5-0c53-4be3-a69f-b98d5e0fb947"><br>
 
 ***
 
 ### Step 4: Create a Virtual Machine
      
-- Go to the search bar and search: `virtual machine`
+- Go to the search bar and search: `Virtual Machine`
 
 - Select: `Create`
 
 - Select: `Azure Virtual Machine`
 
-- You will need to select the same resource group, the same region, and create a name for the virtual machine
-
-  - For this example, we will name the virtual machine: `vm-1`
+- Virtual Machine Name: `vm-1`
     
-  - Use the same resource group and region as steps 2 and 3
+- Use the same resource group and region as steps 2 and step 3
+
+  - Resource Group Name: `RG-Lab1`
+ 
+  - Region: `(US) West 3`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9ffa08bf-c277-4b06-afeb-4ed5bbe9ab8b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/28271ee0-d245-4af1-ab8a-a1a574d1cc10"><br>
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e127285-8f1b-421f-a0a3-119d908c368a"><br>
 
