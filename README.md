@@ -109,12 +109,12 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Image: `Windows 10 Pro, version 22H2 - x64 Gen2`
 
+- *Scroll Down*
+
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/54facebf-363f-428d-a6a3-a0bd5f85282b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/ff81dbed-67a4-496a-b00f-20c7f9c9733e"><br>
 
-***
-
-- Disk Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
+- (Disk) Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
 - Username: `labuser`
 
@@ -122,12 +122,14 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
   - *(something you can easily remember)*
 
+- Select Inbound Ports: `RDP (3889)`
+
 - Click: the `box under licensing`
 
 - Finally click: `Review + Create`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/297a27e0-d781-4189-a304-59dd419e65f3"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/a200b9ca-6a1b-4b2c-a29b-4d957817c067"><br>
 
 ***
 
