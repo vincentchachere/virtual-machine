@@ -177,9 +177,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
   - Select: `OK`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/5152435e-5e57-4728-8e97-545e764be345"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/95c71740-ea5f-405b-8fd8-4de864853524"><br>
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/d81f8c96-75e7-4234-b55b-f79c3d14854b"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/81206635-7651-48ae-a1a1-7298cd9d1684"><br>
 
 ***
 
@@ -190,7 +190,13 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ***
 
-### Tip
+### Pro Tip
 
--  If you want to save your free $200 credits, be sure to delete all your resources and resource groups after you finish!    
-  
+-  If you want to save your free $200 credits, be sure to delete all your resources and resource groups after you finish!
+
+***
+
+☎️ For any questions, concerns, or just to connect you can contact me at:
+
+- 📲 LinkedIn: Vincent Chachere
+- 📬 Email: vincent.chachere@gmail.com
