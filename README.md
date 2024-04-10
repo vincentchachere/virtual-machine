@@ -142,7 +142,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
   - Copy: the `public IP address`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/ba046ebd-bd8d-4a41-b5d2-961d2f683720"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/8a1abb8e-01e9-4ed4-bdb7-bbd80f957aad"><br>
 
 ***
 
