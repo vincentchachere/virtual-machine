@@ -29,10 +29,11 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Now you are ready to begin!
 
-  - *You can also go to [portal.azure.com](https://www.portal.azure.com) to start*
-
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e6b2c44-9e10-4bec-8285-65602c6cded8"><br>
+
+- You can also go to [portal.azure.com](https://www.portal.azure.com) to start
+
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6c62e0c8-4d65-4d03-bc15-cafff0f51f6d"><br>
 
@@ -66,6 +67,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Select: `Create Storage Account`
 
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4f3182fd-ce97-4c0c-97c3-c5ef5df8e330"><br>
+
 - Storage Group Name: `rglab1`
     
   - Use the same resource group as step 2 (RG-Lab1)
@@ -73,8 +77,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Select: `Review + Create`
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4f3182fd-ce97-4c0c-97c3-c5ef5df8e330"><br>
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9049a3b5-0c53-4be3-a69f-b98d5e0fb947"><br>
 
@@ -88,18 +90,27 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 - Select: `Azure Virtual Machine`
 
-- Virtual Machine Name: `vm-1`
-    
-- Use the same resource group and region as steps 2 and step 3
-
-  - Resource Group Name: `RG-Lab1`
- 
-  - Region: `(US) West 3`
-
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/28271ee0-d245-4af1-ab8a-a1a574d1cc10"><br>
+
+- Resource Group Name: `RG-Lab1`
+
+  - *(Same as the storage group and resource group you created in step 2 and step 3)*
+
+- Virtual Machine Name: `vm-1`
+
+- Region: `(US) West 3`
+
+  - *(Same as the storage group and resource group you created in step 2 and step 3)*
+
+- Availability Type: `No infrastructure redundancy required`
+
+- Security Type: `Standard`
+
+- Image: `Windows 10 Pro, version 22H2 - x64 Gen2`
+
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e127285-8f1b-421f-a0a3-119d908c368a"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/54facebf-363f-428d-a6a3-a0bd5f85282b"><br>
 
 ***
 
