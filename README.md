@@ -146,24 +146,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ***
 
-- Mac Users
-
-  - Download: `Microsoft Remote Desktop`
-
-  - Open: `the application`
-
-  - Click: `Add PC`
-
-  - Paste: `the public IP address`
-
-  - Select: `Add`
-
-  - Double-click: on the `virtual machine`
-
-  - Enter: `the username and password` *from step 4*
-
-  - Select: `Continue`
-
 - Windows Users
 
   - Open and use: `Remote Desktop`
@@ -176,10 +158,39 @@ Azure is a cloud computing platform and an online portal that allows you to acce
      
   - Select: `OK`
 
+- Mac Users
+
+  - Download: `Microsoft Remote Desktop`
+
+  - Open: `the application`
+ 
+  - *Scroll Down*
+
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/95c71740-ea5f-405b-8fd8-4de864853524"><br>
+
+- Click: `Add PC`
+
+- *Scroll Down*
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/271b5f3f-f11e-41a7-890d-17b2aabfb9b1"><br>
+
+- Paste: `the public IP address`
+
+  - Select: `Add`
+
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/81206635-7651-48ae-a1a1-7298cd9d1684"><br>
+
+ - Double-click: on the `virtual machine`
+
+  - Enter: `the username and password` *from step 4*
+
+  - Select: `Continue`
+
+<p align="center">
+<img width="800" alt="isolated" src=""><br>
 
 ***
 
