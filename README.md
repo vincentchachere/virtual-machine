@@ -40,7 +40,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Step 2: Create a Resource Group
 
-- Go to the search bar at the top middle of your screen and Search: `resource group`
+- Go to the search bar and search: `resource group`
 
 - Select: `Create`
 
@@ -62,22 +62,19 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ### Step 3: Create a Storage Account
 
-- Go to the search bar and search: `storage account`
+- Go to the search bar and search: `Storage Account`
 
 - Select: `Create Storage Account`
 
-  - You will need to select the same resource group, the same region, and create a name for the storage group
-
 - Storage Group Name: `rglab1`
     
-  - Use the same resource group and region as step 2
+  - Use the same resource group as step 2 (RG-Lab1)
+  - Use the same region as step 2 ((US) West 3)
 
-- Select: `Review`
-
-- Select: `Create`
+- Select: `Review + Create`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9ae27541-d993-4021-9fd4-8922e27c5065"><br>
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4f3182fd-ce97-4c0c-97c3-c5ef5df8e330"><br>
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/f9dcab68-9530-4db3-94a4-387aaa21369c"><br>
 
