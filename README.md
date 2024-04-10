@@ -144,8 +144,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/8a1abb8e-01e9-4ed4-bdb7-bbd80f957aad"><br>
 
-***
-
 - Windows Users
 
   - Open and use: `Remote Desktop`
