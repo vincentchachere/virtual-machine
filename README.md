@@ -114,19 +114,13 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ***
 
-- You will then need to: `select the image and disk size`
+- Disk Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
 
-  - For the image we will use: `Windows 10 Pro`
-   
-  - For the size select: `See All Sizes`
- 
-  - Then select: `Standard D2as_v4`
+- Username: `labuser`
 
-- You will then need to make a username and password
+- Password: `Create Your Own`
 
-  - Username: `labuser`
-
-  - Password: `Create Your Own` *(something you can easily remember)*
+  - *(something you can easily remember)*
 
 - Click: the `box under licensing`
 
