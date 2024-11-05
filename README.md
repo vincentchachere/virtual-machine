@@ -215,10 +215,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ***
 
-☎️ For any questions, concerns, or just to connect, you can contact me at:
+☎️ For any questions, concerns, or just to connect, you can message me at:
 
 📲 LinkedIn: www.linkedin.com/in/vincentchachere
-
-📬 Email: vincent.chachere@gmail.com
-
-(No soliticing, only real connections, please and thank you.)
