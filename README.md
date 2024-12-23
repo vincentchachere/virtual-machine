@@ -220,24 +220,28 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
   - Select: `Add`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/81206635-7651-48ae-a1a1-7298cd9d1684"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/648eef73-ad7e-45d2-8a5e-2418e79f932c"><br>
 
 <br>
 <br>
 
-- Double-Click: on the `Virtual Machine Account (the blue ringed rectangle)`
+<ins>Connecting to the Virtual Machine</ins>:
+
+- Right-Click: the `Virtual Machine Account`
 
 - Click: `Connect`
 
-- Enter: `the username and password` *(from step 4)*
+- Enter: `the username and password` (*from step 4*)
 
 - Select: `Continue`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4e5eebbc-439f-4fc2-9a77-7623b29064ce"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/490fe7f1-1088-4f7b-be41-29cb2d50f1ab"><br>
 
 <br>
 <br>
+
+<ins>Connecting to the Virtual Machine</ins>:
 
 - Uncheck: `All the Boxes`
 
@@ -259,6 +263,6 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
 
 ### Pro Tip
 
--  If you want to save your free $200 credits, be sure to delete all your resources and resource groups after you finish!
+-  To save your $200 free credits, delete all resources and resource groups once you're done!
 
 ☎️ For questions or just to connect you can reach me at: www.linkedin.com/in/vincentchachere
