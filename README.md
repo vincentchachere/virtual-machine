@@ -3,7 +3,7 @@
 </p>
 
 # Microsoft Azure
-Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. This guide will demonstrate how to create an Azure account and create a virtual machine.
+Azure is Microsoft's cloud computing platform, offering a wide range of services and resources accessible through an online portal. With an internet connection, you can manage and deploy these resources via the Azure portal. This guide will show you how to create an Azure account and set up a virtual machine.
 
 ## Requirements
 
@@ -12,41 +12,61 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 ## Configuration Steps
 
+- Create an Azure Account
+- Create a Resource Group
+- Create a Storage Account
+- Create a Virtual Machine
+- Remote Desktop (RDP) into the Virtual Machine
 
 ### Step 1: Create an Azure Account
 
-- Create your Azure account [here](https://azure.microsoft.com/en-us/free/)
+- Create your Azure account: [here](https://azure.microsoft.com/en-us/free/)
 
 - Select: `Start Free`
 
   - *Follow the prompt to create account*
 
-  - *You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then*
+  - *To use Azure, you'll need to provide a credit card, but you'll receive $200 in free credits valid for 30 days. Charges only begin once the credits are used up or the 30 days expire*
 
   - *Finish the prompt*
 
-- Click: `Go to Azure Portal`
-
 - Now you are ready to begin!
+
+*To start you can also go to:* [portal.azure.com](https://www.portal.azure.com)
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6e6b2c44-9e10-4bec-8285-65602c6cded8"><br>
 
-- You can also go to [portal.azure.com](https://www.portal.azure.com) to start
+<br>
+<br>
+
+<ins>Create an Azure Account</ins>:
+
+- Click: `Go to Azure Portal`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/6c62e0c8-4d65-4d03-bc15-cafff0f51f6d"><br>
 
-***
+<br>
+<br>
 
 ### Step 2: Create a Resource Group
 
-- Go to the search bar and search: `resource group`
+- Go to the search bar and search: `Resource Group`
+
+  Or..
 
 - Select: `Create`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/b607495a-8387-4772-bf0e-6797e3ab49ac"><br>
+
+<br>
+<br>
+
+<ins>Create a Resource Group</ins>:
+
+- Azure Subscription: `Azure subscription 1`
 
 - Resource Group Name: `RG-Lab1`
 
@@ -59,79 +79,77 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/7726c51a-d8fe-4bf2-9ea4-4ce76bf3e9d2"><br>
 
-***
+<br>
+<br>
 
 ### Step 3: Create a Storage Account
 
 - Go to the search bar and search: `Storage Account`
+
+  Or..
 
 - Select: `Create Storage Account`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4f3182fd-ce97-4c0c-97c3-c5ef5df8e330"><br>
 
+<br>
+<br>
+
+<ins>Create a Storage Account</ins>:
+
 - Storage Group Name: `rglab1`
     
-  - Use the same resource group as step 2 (RG-Lab1)
-  - Use the same region as step 2 ((US) West 3)
+  - *Use the same resource group as step 2:* `RG-Lab1`
+  - *Use the same region as step 2:* `(US) West 3`
 
 - Select: `Review + Create`
+
+- Select: `Create`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/9049a3b5-0c53-4be3-a69f-b98d5e0fb947"><br>
 
-***
+<br>
+<br>
 
 ### Step 4: Create a Virtual Machine
      
 - Go to the search bar and search: `Virtual Machine`
 
-- Select: `Create`
+  Or..
+
+- Select: `Create` then..
 
 - Select: `Azure Virtual Machine`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/28271ee0-d245-4af1-ab8a-a1a574d1cc10"><br>
 
-- Resource Group Name: `RG-Lab1`
+<br>
+<br>
 
-  - *(Same as the storage group and resource group you created in step 2 and step 3)*
+<ins>Create a Virtual Machine</ins>:
 
-- Virtual Machine Name: `vm-1`
+*Fill in everything displayed in the image below.*
 
-- Region: `(US) West 3`
-
-  - *(Same as the storage group and resource group you created in step 2 and step 3)*
-
-- Availability Type: `No infrastructure redundancy required`
-
-- Security Type: `Standard`
-
-- Image: `Windows 10 Pro, version 22H2 - x64 Gen2`
-
-- *Scroll Down*
-
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/ff81dbed-67a4-496a-b00f-20c7f9c9733e"><br>
-
-- (Disk) Size: `Standard_D4s_v3 - 4 vcpus, 16 GiB memory ($140.16/month)`
+- Region: `(US) West 3` (*Same region you selected in step 3*)
 
 - Username: `labuser`
 
-- Password: `Create Your Own`
+- Password: `Create Your Own` (*something you can easily remember*)
 
-  - *(something you can easily remember)*
+- Check: `Licensing Box`
 
-- Select Inbound Ports: `RDP (3889)`
+- Click: `Review + Create`
 
-- Click: the `box under licensing`
-
-- Finally click: `Review + Create`
+- Click: `Create`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/a200b9ca-6a1b-4b2c-a29b-4d957817c067"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b6d6fdb3-483b-4838-a2f9-606b87d94453"><br>
 
-***
+<br>
+<br>
 
 ### Step 5: Connect to the Virtual Machine
 
@@ -143,6 +161,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/8a1abb8e-01e9-4ed4-bdb7-bbd80f957aad"><br>
+
+<br>
+<br>
 
 - Windows Users
 
@@ -167,6 +188,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/95c71740-ea5f-405b-8fd8-4de864853524"><br>
 
+<br>
+<br>
+
 - Click: `Add PC`
 
 - *Scroll Down*
@@ -174,12 +198,18 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/271b5f3f-f11e-41a7-890d-17b2aabfb9b1"><br>
 
+<br>
+<br>
+
 - Paste: `the public IP address`
 
   - Select: `Add`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/81206635-7651-48ae-a1a1-7298cd9d1684"><br>
+
+<br>
+<br>
 
 - Double-Click: on the `Virtual Machine Account (the blue ringed rectangle)`
 
@@ -192,6 +222,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/4e5eebbc-439f-4fc2-9a77-7623b29064ce"><br>
 
+<br>
+<br>
+
 - Uncheck: `All the Boxes`
 
 - Click: `Accept`
@@ -199,20 +232,19 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/e59970e9-dd77-4812-984b-4540d90c87c7"><br>
 
-
-***
+<br>
+<br>
 
 🎉Congratulations! You have created your first virtual machine within Azure!🎉
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/986ee130-a408-434a-901e-50a6987583c7"><br>
 
-***
+<br>
+<br>
 
 ### Pro Tip
 
 -  If you want to save your free $200 credits, be sure to delete all your resources and resource groups after you finish!
 
-***
-
-☎️ For any questions, or just to connect, you can message me at: www.linkedin.com/in/vincentchachere
+☎️ For questions or just to connect you can reach me at: www.linkedin.com/in/vincentchachere
