@@ -153,19 +153,41 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
 
 ### Step 5: Connect to the Virtual Machine
 
-- First, you will need to find the public IP address of your virtual machine
+<ins>Now we will Remote Desktop (RDP) into the virtual machine we just created by copying vm-1's Public IP Address</ins>:
 
-  - Select: the `virtual machine` we created and the `public IP address` will be on the right-hand side of the screen
+- Go To: `Resource Groups`
 
-  - Copy: the `public IP address`
+- Select: `RG-Lab1`
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/8a1abb8e-01e9-4ed4-bdb7-bbd80f957aad"><br>
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/798b7a4b-5666-4739-bf38-4f436a96e55e">
 
 <br>
 <br>
 
-- Windows Users
+<ins>Connecting to the Virtual Machine</ins>:
+
+  - Select: `vm-1`
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3c45bf6c-6703-4f19-be57-c970d2978e63">
+
+<br>
+<br>
+
+<ins>Connecting to the Virtual Machine</ins>:
+
+- Copy: vm-1's `public IP address`
+
+<p align="center">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/294136a6-0ae1-4007-a60b-7a86213b447b">
+
+<br>
+<br>
+
+<ins>Connecting to the Virtual Machine</ins>:
+
+- For Windows Users:
 
   - Open and use: `Remote Desktop`
  
@@ -173,27 +195,17 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
     
   - Then select: `Connect`
  
-  - Enter: the `username and password from step 4`
+  - Enter: the `username and password` (*the one you made when creating vm-1*)
      
   - Select: `OK`
 
-- Mac Users
+- For Mac Users:
 
   - Download: `Microsoft Remote Desktop`
 
   - Open: `the application`
- 
-  - *Scroll Down*
 
-<p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/95c71740-ea5f-405b-8fd8-4de864853524"><br>
-
-<br>
-<br>
-
-- Click: `Add PC`
-
-- *Scroll Down*
+  - Click: `Add PC`
 
 <p align="center">
 <img width="800" alt="isolated" src="https://github.com/vincentchachere/virtual-machine/assets/161680745/271b5f3f-f11e-41a7-890d-17b2aabfb9b1"><br>
@@ -201,7 +213,9 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
 <br>
 <br>
 
-- Paste: `the public IP address`
+<ins>Connecting to the Virtual Machine</ins>:
+
+- Paste: vm-1's `Public IP ddress`
 
   - Select: `Add`
 
