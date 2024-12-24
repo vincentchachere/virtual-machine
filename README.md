@@ -133,6 +133,8 @@ Azure is Microsoft's cloud computing platform, offering a wide range of services
 
 *Fill in everything displayed in the image below.*
 
+- Select Rsource Group Name: `RG-Lab1` (The one you just created)
+
 - Region: `(US) West 3` (*Same region you selected in step 3*)
 
 - Username: `labuser`
